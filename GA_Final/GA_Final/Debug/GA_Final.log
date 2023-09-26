@@ -1,0 +1,21 @@
+﻿  ItemGA.cpp
+D:\General Development\C++ Projects\Porter_GA_FinalExam\Porter_GA_FinalExam\GA_Final\GA_Final\GA_Final\ItemGA.cpp(33,29): warning C4018: '<': signed/unsigned mismatch
+D:\General Development\C++ Projects\Porter_GA_FinalExam\Porter_GA_FinalExam\GA_Final\GA_Final\GA_Final\ItemGA.cpp(58,20): warning C4018: '<': signed/unsigned mismatch
+D:\General Development\C++ Projects\Porter_GA_FinalExam\Porter_GA_FinalExam\GA_Final\GA_Final\GA_Final\ItemGA.cpp(101,26): warning C4018: '<': signed/unsigned mismatch
+D:\General Development\C++ Projects\Porter_GA_FinalExam\Porter_GA_FinalExam\GA_Final\GA_Final\GA_Final\ItemGA.cpp(245,20): warning C4018: '<': signed/unsigned mismatch
+D:\General Development\C++ Projects\Porter_GA_FinalExam\Porter_GA_FinalExam\GA_Final\GA_Final\GA_Final\ItemGA.cpp(260,21): warning C4018: '<': signed/unsigned mismatch
+D:\General Development\C++ Projects\Porter_GA_FinalExam\Porter_GA_FinalExam\GA_Final\GA_Final\GA_Final\ItemGA.cpp(299,20): warning C4018: '<': signed/unsigned mismatch
+D:\General Development\C++ Projects\Porter_GA_FinalExam\Porter_GA_FinalExam\GA_Final\GA_Final\GA_Final\ItemGA.cpp(365,43): warning C4244: '+=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\General Development\C++ Projects\Porter_GA_FinalExam\Porter_GA_FinalExam\GA_Final\GA_Final\GA_Final\ItemGA.cpp(386,42): warning C4244: '+=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  main.cpp
+  Generating Code...
+  LINK : D:\General Development\C++ Projects\Porter_GA_FinalExam\Porter_GA_FinalExam\GA_Final\GA_Final\Debug\GA_Final.exe not found or not built by the last incremental link; performing full link
+  GA_Final.vcxproj -> D:\General Development\C++ Projects\Porter_GA_FinalExam\Porter_GA_FinalExam\GA_Final\GA_Final\Debug\GA_Final.exe
